@@ -1,12 +1,6 @@
 /***************
- * node-unblocker: Web Proxy for evading firewalls and content filters,
- * similar to CGIProxy or PHProxy
- *
- *
- * This project is hosted on github:  https://github.com/nfriedly/node-unblocker
- *
- * By Nathan Friedly - http://nfriedly.com
- * Released under the terms of the GPL v3
+ * Inspired from node-unblocker
+ * 
  */
 
 var url = require('url');
